@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+  background-color: lightpink;
+}
+.row-counter{
+  align-content: center;
+  border: 10px solid black;
+  border-radius: 15px;
+  max-width: 80%;
+}
+
+#increment-btn{
+  color: white;
+  background-color: rgb(231, 0, 0);
+  font-size: 25px;
+  margin-right: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  width: 300px;
+  border-radius: 15px;
+  border-style: none;
+  font-weight: bold;
+}
+#save-btn{
+  color: white;
+  background-color: rgb(0, 0, 120);
+ font-size: 25px;
+ font-family: Arial, Helvetica, sans-serif;
+ padding: 10px;
+ width: 300px;
+ border-radius: 15px;
+ border-style: none;
+ font-weight: bold;
+}
+
+h1{
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+#save-el{
+  font-size: 30px;
+  font-weight: bold;
+}
